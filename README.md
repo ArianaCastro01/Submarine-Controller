@@ -1,5 +1,5 @@
-# Project Title
-Submarine-controller
+# Submarine-controller
+
 ## Description
 A controller for a 3D Submarine that picks up trash underwater
 
