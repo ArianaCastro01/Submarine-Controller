@@ -29,4 +29,4 @@ A controller for a 3D Submarine that picks up trash underwater
 [Justin Dolan](url)
 
 # License
-This project is licensed under the GNU Affero General Public License v3.0 License - see the [LICENSE.md](url) file for details
+This project is licensed under the GNU Affero General Public License v3.0 License - see the LICENSE.md file for details
