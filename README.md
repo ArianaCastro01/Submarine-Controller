@@ -7,7 +7,7 @@ A controller for a 3D Submarine that picks up trash underwater
 [Ariana Castro](url)
 
 # Assets
-### Unity Assets
+### <ins> Unity Assets </ins>
 <details open>
   
   - Skybox
@@ -17,9 +17,12 @@ A controller for a 3D Submarine that picks up trash underwater
   - bubble particles
   </details>
   
-### Coral, Seaweed, and Sand texture
+### <ins> Coral, Seaweed, and Sand texture </ins>
+  
 [Justin Dolan](url)
-### UI, Water Shader and Seaweed Shader
+
+### <ins> UI, Water Shader and Seaweed Shader </ins>
+
 [Ariana Castro](url)
 
 # Contribution
