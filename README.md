@@ -1,7 +1,15 @@
 # Submarine-controller
 
 ## Description
-A controller for a 3D Submarine that picks up trash underwater
+- A controller for a 3D Submarine that picks up trash underwater.
+- Win condition
+- Lighting Manager and Preset for Day/Night cycle
+- Mini Map
+- RearView Mirror
+- Collision condition for Underwater effect
+- Inventory/PickUp System.
+
+*(Functionality for Compass and Analog but not currently visible in build)*
 
 # Author
 [Ariana Castro](url)
