@@ -19,14 +19,14 @@ A controller for a 3D Submarine that picks up trash underwater
   
 ### <ins> Coral, Seaweed, and Sand texture </ins>
   
-[Justin Dolan](url)
+[Justin Dolan](https://www.artstation.com/mdjustin)
 
 ### <ins> UI, Water Shader and Seaweed Shader </ins>
 
 [Ariana Castro](url)
 
 # Contribution
-[Justin Dolan](url)
+[Justin Dolan](https://www.artstation.com/mdjustin)
 
 # License
 This project is licensed under the GNU Affero General Public License v3.0 License - see the LICENSE.md file for details
